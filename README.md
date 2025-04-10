@@ -8,7 +8,6 @@ Book Search Engine to be built with Google Books API search engin. It basically 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Deployed URL](#DeployedURL)
 
 ## Installation
 Following will be required in this project:
@@ -32,9 +31,6 @@ Following will be required in this project:
 ## License
 This project is licensed under MIT.
 
-## Deployed Application
-https://candidate-search-1-koy2.onrender.com/
-
 ## Github Repository
-https://github.com/chhayabangia/Candidate_Search.git
+https://github.com/chhayabangia/Book-Search-Engine.git
 
