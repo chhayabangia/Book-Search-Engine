@@ -37,4 +37,4 @@ https://candidate-search-1-koy2.onrender.com/
 
 ## Github Repository
 https://github.com/chhayabangia/Candidate_Search.git
-![image](https://github.com/user-attachments/assets/43119264-8aa6-40f6-905a-19b134b4134e)
+
